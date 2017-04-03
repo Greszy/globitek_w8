@@ -18,7 +18,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: _SQL_Injection_SQLi_
 
-<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project7DemoBlue2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='Project7DemoBlue2.1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: _Cross_Site_Request_Forgery_CSRF_
 
@@ -28,11 +30,11 @@ Vulnerability #2: _Cross_Site_Request_Forgery_CSRF_
 
 Vulnerability #2: _Cross_Site_Scripting_XSS_
 
-<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project7DemoGreen2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #1: _Username_Enumeration_
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project7DemoGreen1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Red
 
@@ -42,7 +44,7 @@ Vulnerability #2: _Session_Hijacking_
 
 Vulnerability #1: _Insecure_Direct_Object_Reference_IDOR_
 
-<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project7DemoRed1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
