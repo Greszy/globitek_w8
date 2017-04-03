@@ -18,17 +18,17 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: _SQL_Injection_SQLi_
 
-<img src='http://i.imgur.com/kMB1dqL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: _Cross_Site_Request_Forgery_CSRF_
 
-<img src='http://i.imgur.com/hEVnWZL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Green
 
 Vulnerability #2: _Cross_Site_Scripting_XSS_
 
-<img src='http://i.imgur.com/kRfRPiy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #1: _Username_Enumeration_
 
@@ -38,15 +38,12 @@ Vulnerability #1: _Username_Enumeration_
 
 Vulnerability #2: _Session_Hijacking_
 
-<img src='http://i.imgur.com/YiKXrwP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #1: _Insecure_Direct_Object_Reference_IDOR_
 
-<img src='http://i.imgur.com/UUCkeKG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Bonus 1
-
-<img src='http://i.imgur.com/LY5Xl3s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
