@@ -28,25 +28,25 @@ Vulnerability #2: _Session_Hijacking_
 
 ## Green
 
-Vulnerability #2: _Cross_Site_Scripting_XSS_
+Vulnerability #1: _Cross_Site_Scripting_XSS_
 
 <img src='Project7DemoGreen2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Vulnerability #1: _Username_Enumeration_
+Vulnerability #2: _Username_Enumeration_
 
 <img src='Project7DemoGreen1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Red
 
-Vulnerability #2: _Cross_Site_Request_Forgery_CSRF_
+Vulnerability #1: _Cross_Site_Request_Forgery_CSRF_
 
-<img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project7DemoRed2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Vulnerability #1: _Insecure_Direct_Object_Reference_IDOR_
+Vulnerability #2: _Insecure_Direct_Object_Reference_IDOR_
 
 <img src='Project7DemoRed1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+In my opinion the Session Hijacking and CSFR were the most difficult to grasp. The idea isn't that difficult to understand but the implementation can be tricky requires some time to fully understand. 
