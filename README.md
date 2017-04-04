@@ -24,7 +24,7 @@ Vulnerability #1: _SQL_Injection_SQLi_
 
 Vulnerability #2: _Session_Hijacking_
 
-<img src='Project7Demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project7DemoBlue1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Green
 
