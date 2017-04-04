@@ -22,7 +22,7 @@ Vulnerability #1: _SQL_Injection_SQLi_
 
 <img src='Project7DemoBlue2.1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Vulnerability #2: _Cross_Site_Request_Forgery_CSRF_
+Vulnerability #2: _Session_Hijacking_
 
 <img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -38,7 +38,7 @@ Vulnerability #1: _Username_Enumeration_
 
 ## Red
 
-Vulnerability #2: _Session_Hijacking_
+Vulnerability #2: _Cross_Site_Request_Forgery_CSRF_
 
 <img src='.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
